@@ -1,0 +1,22 @@
+{
+  "name": "devops-nodejs-express-books",
+  "version": "1.0.0",
+  "description": "it's a express books api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandarulakshminarasimham/devops-nodejs-express-books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bandarulakshminarasimham/devops-nodejs-express-books/issues"
+  },
+  "homepage": "https://github.com/bandarulakshminarasimham/devops-nodejs-express-books#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
